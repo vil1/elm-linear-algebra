@@ -30,7 +30,7 @@ existing matrix.
 -}
 
 import Native.MJS
-import Math.Vector3 (Vec3)
+import Algebra.Vector3 (Vec3)
 
 data Mat4 = Mat4
 
